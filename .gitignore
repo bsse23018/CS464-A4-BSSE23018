@@ -136,3 +136,10 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# unused leftovers from earlier assignments (kept on disk only)
+/Assets/Synty*
+/Assets/Raptor3D*
+/Assets/Helicopter*
+*.mp4
+UpgradeLog*.htm
