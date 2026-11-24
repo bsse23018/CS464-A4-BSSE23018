@@ -1,11 +1,15 @@
 # CS464 Assignment 04 · Muhammad Tayyab · BSSE23018
 
-**Video (90–180 s):** _add the YouTube (unlisted) or Google Drive link here_
+## Demo Video
+- [Watch / Download Demo Video (docs/demo.mp4)](docs/demo.mp4)
 
+<video src="docs/demo.mp4" width="360" controls></video>
+
+## Screens and flow
 <p>
-<img src="Docs/hud-16x9.png" width="320" alt="The HUD at 16:9">
-<img src="Docs/hud-4x3.png" width="240" alt="The HUD at 4:3">
-<img src="Docs/hud-gray.png" width="320" alt="The HUD in grayscale">
+<img src="Docs/main_menu.png" width="320" alt="">
+<img src="Docs/level1.png" width="240" alt="">
+<img src="Docs/guard.png" width="320" alt="">
 </p>
 
 Unity 6.3 (6000.3.24f1). Open the project and press Play from `Assets/Scenes/MainMenu.unity`. The Scene List is saved in
@@ -45,8 +49,3 @@ Built on my Assignment 03 levels.
 - `tools/make_audio.py` — generates every sound in `Assets/Audio`.
 - Keyboard: arrow keys and Enter in every menu, Esc pauses, R restarts.
 
-## Credits
-
-- Every sound effect and the music loop · generated for this project by `tools/make_audio.py` (sine and noise synthesis) · me · included in this repo · CC0.
-- Font · Liberation Sans · Google/Red Hat via TextMesh Pro · bundled with Unity · SIL Open Font Licence 1.1.
-- Levels, prefabs, materials and scripts · me (Assignment 03, extended here).
